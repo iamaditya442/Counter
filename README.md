@@ -1,12 +1,45 @@
-# React + Vite
+# 🔢 Counter App — Vite + React
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A minimal and responsive counter application built using **Vite + React**. The counter value can range from **0 to 20**. Simple, clean UI with instant updates using React state.
 
-Currently, two official plugins are available:
+[🌐 Live Demo](https://lighthearted-fenglisu-ec0e3f.netlify.app/)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## ✨ Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- 🚀 Powered by Vite for lightning-fast development
+- ⚛️ React functional components + hooks
+- ⬆️ Increment and ⬇️ Decrement with boundary logic
+- ⛔ Prevents values below 0 or above 20
+- 📱 Fully responsive design
+- ☁️ Deployed on Netlify
+
+---
+
+## 📸 Preview
+
+![Counter App Screenshot](https://user-images.githubusercontent.com/your-github-username/your-image.png)
+> *Optional: Upload a screenshot in your repo and use its raw GitHub URL here.*
+
+---
+
+## 🛠️ Tech Stack
+
+- Vite
+- React
+- JavaScript
+- HTML/CSS
+- Netlify
+
+---
+
+## 🚀 Getting Started
+
+Clone the project:
+
+```bash
+git clone https://github.com/your-username/counter-project.git
+cd counter-project
+npm install
+npm run dev
