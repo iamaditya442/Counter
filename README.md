@@ -19,10 +19,11 @@ A minimal and responsive counter application built using **Vite + React**. The c
 
 ## 📸 Preview
 
-![Counter App Screenshot](https://user-images.githubusercontent.com/your-github-username/your-image.png)
+![Counter App Screenshot](https://github.com/user-attachments/assets/99e5571d-64e7-499d-97db-aae1c54f01eb)
 > *Optional: Upload a screenshot in your repo and use its raw GitHub URL here.*
 
----
+
+
 
 ## 🛠️ Tech Stack
 
